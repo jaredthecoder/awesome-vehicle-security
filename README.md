@@ -8,9 +8,7 @@
 
 Inspired by [awesome-security](https://github.com/sbilly/awesome-security), [awesome-appsec](https://github.com/paragonie/awesome-appsec), and [awesome-python](https://github.com/vinta/awesome-python).
 
----
-
-Thanks to all contributors, you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven curation of very well-known resources. [Please Contribute!]()
+Thanks to all contributors, you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven curation of very well-known resources. [Please Contribute!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
 ---
 
