@@ -65,15 +65,14 @@ Legend:
 
 ## Blogs
 
-None yet.
+Welcoming contributions!
 
 ## Videos
 
-- [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
+- [Samy Kumkar on Hacking into Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
 
 ## Websites
 
-- 
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
@@ -83,9 +82,9 @@ None yet.
 
 ## Who to Follow
 
-- Chris Valasek: Security Lead at UberATC
+- 🌟 Chris Valasek: Security Lead at UberATC
     - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
-- Charlie Miller: Hacked the first Apple iPhone, now does car security
+- 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security
     - [Twitter](https://twitter.com/0xcharlie?lang=en)
 - OpenGarages: Vehicle Research Lab
     - [Twitter](https://twitter.com/opengarages)
@@ -100,7 +99,7 @@ None yet.
 Podcasts and podcast episodes that either directly focus on vehicle security or have some episodes on it.
 
 ### Podcasts
-- [Security Weekly](http://securityweekly.com/) - Excellent podcast covering all ranges of security, with some episodes focusing portions on vehicle security from cars to drones.
+- 🌟 [Security Weekly](http://securityweekly.com/) - Excellent podcast covering all ranges of security, with some episodes focusing portions on vehicle security from cars to drones.
 - [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
 
 ### Episodes
@@ -112,14 +111,14 @@ Podcasts and podcast episodes that either directly focus on vehicle security or 
 
 Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
 
-- [Arduino](https://www.arduino.cc/) - Arduino's have a number of shields you can attach to connect to CAN-enabled devices.
+- 🌟 [Arduino](https://www.arduino.cc/) - Arduino's have a number of shields you can attach to connect to CAN-enabled devices.
     - [CANdiy-Shield](https://github.com/watterott/CANdiy-Shield)
     - [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     - [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product&product_id=1444)
     - [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
 - [CANtact](http://linklayer.github.io/cantact/) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
 - [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - Arduino-based OBD-II Bluetooth adapter kit has both an OBD-II device and a data logger, and it comes with GPS, an accelerometer and gyro, and temperature sensors.
-- [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
+- 🌟 [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
 - [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) - Crafted by a well-known hardware hacker, this board is a general board that can be used for exploration of automotive networks.
 - [USB2CAN](http://www.8devices.com/products/usb2can/) - Cheap USB to CAN connector that will register a device on linux that you can use to get data from a CAN network.
 - [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
@@ -138,7 +137,7 @@ Overview of software, both open source and proprietary, as well as libraries fro
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
 
-- [WireShark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
+- 🌟 [WireShark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
@@ -148,13 +147,13 @@ Software applications that will help you hack your car, investigate it's signals
 
 ## Python
 
-- [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
+- 🌟 [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
 ## Go
 
-- [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+- 🌟 [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
 # Companies and Jobs
 
