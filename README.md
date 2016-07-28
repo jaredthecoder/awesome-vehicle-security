@@ -43,9 +43,9 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ## People
 
-- Chris Valasek: Security Lead UberATC - http://www.uberatc.com/.
+- Chris Valasek: Security Lead at UberATC
   - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
-- Charlie Miller: Hacked the first Apple iPhone, now does car security.
+- Charlie Miller: Hacked the first Apple iPhone, now does car security
   - [Twitter](https://twitter.com/0xcharlie?lang=en)
 
 ## Podcasts
@@ -85,6 +85,4 @@ List of lists.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
-
-I would keep some pull requests open if I'm not sure whether the libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md) first.
