@@ -18,10 +18,13 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
   - [Articles](#articles)
   - [Books](#books)
   - [Blogs](#blogs)
+  - [Videos](#videos)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
-  - [People](#people)
-  - [Podcasts](#podcasts)
+  - [Who to Follow](#who-to-follow)
+  - [Podcasts and Episodes](#podcasts-and-episodes)
+    - [Podcasts](#podcasts)
+    - [Episodes](#episodes)
 - [Software](#software)
   - [Applications](#applications)
   - [Python](#python)
@@ -33,22 +36,44 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ## Articles
 
+- [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) - Chris Valasek's and Charlie Miller's pivotal research on hacking into Jeep's presented at DEFCON in 2015.
+- [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/)
+- [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/)
+
 ## Books
 
 ## Blogs
+
+## Videos
+
+- [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
 
 ## Websites
 
 ## Newsletters
 
-## People
+## Who to Follow
 
 - Chris Valasek: Security Lead at UberATC
   - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
 - Charlie Miller: Hacked the first Apple iPhone, now does car security
   - [Twitter](https://twitter.com/0xcharlie?lang=en)
+- OpenGarages: Vehicle Research Lab
+  - [Twitter](https://twitter.com/opengarages)
+  - [Website](http://opengarages.org/index.php/Main_Page)
 
-## Podcasts
+## Podcasts and Episodes
+
+Podcasts and podcast episodes that either directly focus on vehicle security or have some episodes on it.
+
+### Podcasts
+- [Security Weekly](http://securityweekly.com/) - Excellent podcast covering all ranges of security, with some episodes focusing portions on vehicle security from cars to drones.
+- [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
+
+### Episodes
+- [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/)
+- [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1)
+- []()
 
 # Software
 
@@ -64,6 +89,7 @@ Applications that will help you hack your car, investigate it's signals, and gen
 Companies and jobs working in vehicle security.
 
 - [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>
+- [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for all kinds of roles, particularly securing their vehicles
 
 
 # Other Awesome Lists
