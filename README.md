@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated list of awesome software, libraries, documents, books, resources and cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
+*A curated list of awesome resources, software, applications, people to follow, and cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
 ---
 
@@ -14,17 +14,57 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 # Table of Contents
 
-- [Resources to Learn](#resources)
+- [Resources to Learn](#resources-to-learn)
   - [Articles](#articles)
   - [Books](#books)
   - [Blogs](#blogs)
   - [Websites](#websites)
-  - [Weekly](#weekly)
-  - [Twitter](#twitter)
+  - [Newsletters](#newsletters)
+  - [People](#people)
   - [Podcasts](#podcasts)
+- [Software](#software)
+  - [Applications](#applications)
+  - [Python](#python)
+- [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
-- 
+
+# Resources to Learn
+
+## Articles
+
+## Books
+
+## Blogs
+
+## Websites
+
+## Newsletters
+
+## People
+
+- Chris Valasek: Security Lead UberATC - http://www.uberatc.com/.
+  - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
+- Charlie Miller: Hacked the first Apple iPhone, now does car security.
+  - [Twitter](https://twitter.com/0xcharlie?lang=en)
+
+## Podcasts
+
+# Software
+
+Overview of software, both open source and proprietary, as well as libraries from various programming languages.
+
+## Applications
+
+Applications that will help you hack your car, investigate it's signals, and general tinkering with it.
+
+
+# Companies and Jobs
+
+Companies and jobs working in vehicle security.
+
+- [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>
+
 
 # Other Awesome Lists
 
