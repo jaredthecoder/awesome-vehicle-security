@@ -21,20 +21,21 @@ Legend:
 # Table of Contents
 
 - [Resources to Learn](#resources-to-learn)
-  - [Articles](#articles)
-  - [Presentations](#presentations)
-  - [Books](#books)
-  - [Blogs](#blogs)
-  - [Videos](#videos)
-  - [Websites](#websites)
-  - [Newsletters](#newsletters)
-  - [Who to Follow](#who-to-follow)
-  - [Podcasts and Episodes](#podcasts-and-episodes)
-    - [Podcasts](#podcasts)
-    - [Episodes](#episodes)
+    - [Articles](#articles)
+    - [Presentations](#presentations)
+    - [Books](#books)
+    - [Blogs](#blogs)
+    - [Videos](#videos)
+    - [Websites](#websites)
+    - [Newsletters](#newsletters)
+    - [Who to Follow](#who-to-follow)
+    - [Podcasts and Episodes](#podcasts-and-episodes)
+        - [Podcasts](#podcasts)
+        - [Episodes](#episodes)
 - [Hardware](#hardware)
 - [Software](#software)
   - [Applications](#applications)
+  - [Python](#python)
 - [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -62,6 +63,8 @@ Legend:
 
 ## Blogs
 
+None yet.
+
 ## Videos
 
 - [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
@@ -71,18 +74,24 @@ Legend:
 - 
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
+- [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - Course on Vehicle Hacking.
 
 ## Newsletters
 
 ## Who to Follow
 
 - Chris Valasek: Security Lead at UberATC
-  - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
+    - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
 - Charlie Miller: Hacked the first Apple iPhone, now does car security
-  - [Twitter](https://twitter.com/0xcharlie?lang=en)
+    - [Twitter](https://twitter.com/0xcharlie?lang=en)
 - OpenGarages: Vehicle Research Lab
-  - [Twitter](https://twitter.com/opengarages)
-  - [Website](http://opengarages.org/index.php/Main_Page)
+    - [Twitter](https://twitter.com/opengarages)
+    - [Website](http://opengarages.org/index.php/Main_Page)
+- Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here
+    - [Hackaday](https://twitter.com/hackaday)
+- Justin Seitz: Author of Black Hat Python
+    - [Twitter](https://twitter.com/jms_dot_py)
 
 ## Podcasts and Episodes
 
@@ -95,27 +104,45 @@ Podcasts and podcast episodes that either directly focus on vehicle security or 
 ### Episodes
 - [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/)
 - [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1)
-- []()
 
-# Hardware
 
-Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research
+# Hardware 💰
 
+Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
+
+- [Arduino](https://www.arduino.cc/) - Arduino's have a number of shields you can attach to connect to CAN-enabled devices.
+    - [CANdiy-Shield](https://github.com/watterott/CANdiy-Shield)
+    - [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
+    - [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product&product_id=1444)
+    - [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
+- [CANtact](http://linklayer.github.io/cantact/) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
+- [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - Arduino-based OBD-II Bluetooth adapter kit has both an OBD-II device and a data logger, and it comes with GPS, an accelerometer and gyro, and temperature sensors.
+- [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
+- [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) - Crafted by a well-known hardware hacker, this board is a general board that can be used for exploration of automotive networks.
+- [USB2CAN](http://www.8devices.com/products/usb2can/) - Cheap USB to CAN connector that will register a device on linux that you can use to get data from a CAN network.
+- [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
+- [Red Pitaya](http://redpitaya.com/) - Replaces expensive measurement tools such as oscilloscopes, signal generators, and spectrum analyzers. Red Pitaya has LabView and Matlab interfaces, and you can write your own tools and applications for it. It even supports extensions for things like Arduino shields.
+- [ChipWhisperer](http://newae.com/tools/chipwhisperer/) - A system for side-channel attacks, such as power analysis and clock glitching.  
+- [HackerSDR](https://greatscottgadgets.com/hackrf/) - A Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies.
 
 
 # Software
 
-Overview of software, both open source and proprietary, as well as libraries from various programming languages.
+Overview of software, both open source and proprietary, as well as libraries from various programming languages. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
+
 
 ## Applications
 
-Applications that will help you hack your car, investigate it's signals, and general tinkering with it.
+Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
-- [CANtact](http://linklayer.github.io/cantact/) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
+
+- [WireShark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 - 💰 [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
+- [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
+
 
 ## Python
 
@@ -123,12 +150,18 @@ Applications that will help you hack your car, investigate it's signals, and gen
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 
+## Go
+
+- [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+
 # Companies and Jobs
 
 Companies and jobs working in vehicle security.
 
 - [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>
 - [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for all kinds of roles, particularly securing their vehicles
+- [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company
+- [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in all kinds of information, computer, and embedded security.
 
 
 # Other Awesome Lists
