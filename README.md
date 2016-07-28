@@ -63,7 +63,7 @@ Legend:
 
 ## Blogs
 
-None yet.
+Welcoming contributions!
 
 ## Videos
 
