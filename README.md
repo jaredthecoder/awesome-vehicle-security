@@ -38,6 +38,7 @@ Legend:
 - [Software](#software)
   - [Applications](#applications)
   - [Python](#python)
+  - [Go](#go)
 - [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
