@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated list of awesome resources, software, applications, people to follow, and cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
+*A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
 ![](assets/car_hacking_jeep.gif)
 
