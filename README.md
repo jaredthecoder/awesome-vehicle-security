@@ -12,6 +12,12 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ---
 
+Icon Legend:
+- 🌟: MOST AWESOME.
+- 💰: Costs money. 😞
+
+---
+
 # Table of Contents
 
 - [Resources to Learn](#resources-to-learn)
@@ -27,7 +33,6 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
     - [Episodes](#episodes)
 - [Software](#software)
   - [Applications](#applications)
-  - [Python](#python)
 - [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -42,6 +47,10 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 
 ## Books
 
+- 🌟 [2014 Car Hacker's Handbook](http://opengarages.org/handbook/) - Free practical guide to hacking your own vehicle from 2014.
+- 🌟💰 [2016 Car Hacker's Handbook](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032) - Latest version of the Car Hacker's handbook with updated information to hack your own vehicle and learning vehicle security.
+
+
 ## Blogs
 
 ## Videos
@@ -49,6 +58,10 @@ Thanks to all contributors, you're awesome and this wouldn't be possible without
 - [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
 
 ## Websites
+
+- 
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
+- [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
 
 ## Newsletters
 
