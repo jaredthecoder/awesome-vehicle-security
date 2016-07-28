@@ -72,7 +72,7 @@ Welcoming contributions!
 
 ## Videos
 
-- [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
+- [Samy Kumkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) - Samy Kumkar, the prolific hacker behind the Samy worm on MySpace, explores hacking into vehicles with OnStar systems.
 
 ## Websites
 
