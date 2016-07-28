@@ -4,11 +4,13 @@
 
 *A curated list of awesome resources, software, applications, people to follow, and cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
+![](assets/car_hacking_jeep.gif)
+
 ---
 
 Inspired by [awesome-security](https://github.com/sbilly/awesome-security), [awesome-appsec](https://github.com/paragonie/awesome-appsec), and [awesome-python](https://github.com/vinta/awesome-python).
 
-Thanks to all contributors, you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven curation of very well-known resources. [Help us out!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
+I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
 Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter](https://twitter.com/jaredthecoder).
 
