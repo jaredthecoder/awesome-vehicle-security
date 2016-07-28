@@ -10,7 +10,7 @@ Inspired by [awesome-security](https://github.com/sbilly/awesome-security), [awe
 
 Thanks to all contributors, you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven curation of very well-known resources. [Help us out!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
-Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter](https://twitter.com/jaredthecoder).
+Check out my [blog](https://blog.jaredmichaelsmith.com) or follow me on [Twitter](https://twitter.com/jaredthecoder).
 
 ---
 
