@@ -10,7 +10,7 @@ Inspired by [awesome-security](https://github.com/sbilly/awesome-security), [awe
 
 Thanks to all contributors, you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven curation of very well-known resources. [Help us out!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
-Check out my [blog](https://blog.jaredmichaelsmith.com) or follow me on [Twitter](https://twitter.com/jaredthecoder).
+Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter](https://twitter.com/jaredthecoder).
 
 ---
 
@@ -38,7 +38,6 @@ Legend:
 - [Software](#software)
   - [Applications](#applications)
   - [Python](#python)
-  - [Go](#go)
 - [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -97,7 +96,7 @@ Welcoming contributions!
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
 - Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here
-    - [Hackaday](https://twitter.com/hackaday)
+    - [Twitter](https://twitter.com/hackaday)
 
 ## Podcasts and Episodes
 
