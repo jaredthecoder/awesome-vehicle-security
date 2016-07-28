@@ -67,7 +67,7 @@ Welcoming contributions!
 
 ## Videos
 
-- [Samy Kumkar on OwnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
+- [Samy Kumkar on Hacking into Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be)
 
 ## Websites
 
