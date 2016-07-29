@@ -164,6 +164,8 @@ Software applications that will help you hack your car, investigate it's signals
 
 ## Libraries and Tools
 
+Libraries and tools that don't fall under the larger class of applications above.
+
 ### C
 
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
