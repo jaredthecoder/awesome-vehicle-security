@@ -96,19 +96,19 @@ Welcoming contributions!
 
 ## Who to Follow
 
-- 🌟 Chris Valasek: Security Lead at UberATC
+- 🌟 Chris Valasek: Security Lead at UberATC.
     - [Twitter](https://twitter.com/nudehaberdasher)
     - [Website](http://chris.illmatics.com/about.html)
-- 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security
+- 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security.
     - [Twitter](https://twitter.com/0xcharlie)
-- 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar
+- 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
-- 🌟 Justin Seitz: Author of Black Hat Python
+- 🌟 Justin Seitz: Author of Black Hat Python.
     - [Twitter](https://twitter.com/jms_dot_py)
-- OpenGarages: Vehicle Research Lab
+- OpenGarages: Initiative to created Vehicle Research Labs around the world.
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
-- Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here
+- Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here.
     - [Twitter](https://twitter.com/hackaday)
 
 ## Podcasts and Episodes
@@ -171,7 +171,7 @@ Software applications that will help you hack your car, investigate it's signals
 ### Python
 
 - 🌟 [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
-- [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*
+- [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*.
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
@@ -187,7 +187,7 @@ Software applications that will help you hack your car, investigate it's signals
 
 Companies and jobs working in vehicle security.
 
-- [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>
+- [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>.
 - [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
