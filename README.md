@@ -53,10 +53,12 @@ Legend:
 - 🌟 [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) - Chris Valasek's and Charlie Miller's pivotal research on hacking into Jeep's presented at DEFCON in 2015.
 - [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) - Troy Hunt goes into controlling Subaru vehicles.
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - Overview of DEFCON 23 presentation on hacking into Tesla cars.
+- [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) - Overview of the RollJam rolling code exploitation device.
 
 ## Presentations
 
-- ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus)- A talk from BlackHat Asia 2015 that by the end the audience should "gain an understanding of automotive systems, but will also have the tools to attack them".
+- ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus) - A talk from BlackHat Asia 2015 that by the end the audience should "gain an understanding of automotive systems, but will also have the tools to attack them".
+- ["Drive It Like You Hacked It" from DEFCON 23](https://samy.pl/defcon2015/) - A talk and slides from Samy Kamkar's DEFCON 23/2015 talk that includes hacking garages, exploiting automotive mobile apps, and breaking rolling codes to unlock any vehicle with low cost tools.
 
 ## Books
 
@@ -73,7 +75,7 @@ Welcoming contributions!
 
 ## Videos
 
-- [Samy Kumkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) - Samy Kumkar, the prolific hacker behind the Samy worm on MySpace, explores hacking into vehicles with OnStar systems.
+- [Samy Kamkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) - Samy Kamkar, the prolific hacker behind the Samy worm on MySpace, explores hacking into vehicles with OnStar systems.
 
 ## Websites
 
@@ -92,9 +94,11 @@ Welcoming contributions!
 ## Who to Follow
 
 - 🌟 Chris Valasek: Security Lead at UberATC
-    - [Twitter](https://twitter.com/nudehaberdasher?lang=en)
+    - [Twitter](https://twitter.com/nudehaberdasher)
 - 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security
-    - [Twitter](https://twitter.com/0xcharlie?lang=en)
+    - [Twitter](https://twitter.com/0xcharlie)
+- 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar
+    - [Twitter](https://twitter.com/samykamkar)
 - 🌟 Justin Seitz: Author of Black Hat Python
     - [Twitter](https://twitter.com/jms_dot_py)
 - OpenGarages: Vehicle Research Lab
