@@ -40,10 +40,11 @@ Legend:
 - [Hardware](#hardware)
 - [Software](#software)
   - [Applications](#applications)
-  - [C](#c)
-  - [Python](#python)
-  - [Go](#go)
-  - [JavaScript](#javascript)
+  - [Libraries and Tools](#libraries-and-tools)
+    - [C](#c)
+    - [Python](#python)
+    - [Go](#go)
+    - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -165,22 +166,24 @@ Software applications that will help you hack your car, investigate it's signals
 - 💰 [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
 - [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
 
-## C
+## Libraries and Tools
+
+### C
 
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 
-## Python
+### Python
 
 - 🌟 [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - Intended to be the *nmap of vehicle security*
 - [c0f](https://github.com/zombieCraig/c0f/) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
-## Go
+### Go
 
 - [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
 
-## JavaScript
+### JavaScript
 
 - [NodeJS extension to SocketCAN](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 
