@@ -54,6 +54,7 @@ Legend:
 - [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) - Troy Hunt goes into controlling Subaru vehicles.
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - Overview of DEFCON 23 presentation on hacking into Tesla cars.
 - [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) - Overview of the RollJam rolling code exploitation device.
+- [http://blog.ioactive.com/2013/08/car-hacking-content.html](http://blog.ioactive.com/2013/08/car-hacking-content.html) - Chris Valasek and Charlie Miller release some of their tools and data for hacking into vehicles in an effort to get more people into vehicle security research.
 
 ## Presentations
 
@@ -98,6 +99,7 @@ Welcoming contributions!
 
 - 🌟 Chris Valasek: Security Lead at UberATC
     - [Twitter](https://twitter.com/nudehaberdasher)
+    - [Website](http://chris.illmatics.com/about.html)
 - 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security
     - [Twitter](https://twitter.com/0xcharlie)
 - 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar
