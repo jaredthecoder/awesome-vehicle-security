@@ -105,7 +105,7 @@ Welcoming contributions!
     - [Twitter](https://twitter.com/samykamkar)
 - 🌟 Justin Seitz: Author of Black Hat Python.
     - [Twitter](https://twitter.com/jms_dot_py)
-- 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of https://haveibeenpwned.com.
+- 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
     - [Twitter](https://twitter.com/troyhunt)
     - [Website](https://www.troyhunt.com/)
 - OpenGarages: Initiative to created Vehicle Research Labs around the world.
