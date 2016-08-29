@@ -74,7 +74,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 
 ## Blogs
 
-inspiWelcoming contributions!
+[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
 
 
 ## Websites
@@ -88,7 +88,7 @@ inspiWelcoming contributions!
 
 ## Newsletters
 
-Welcoming contributions!
+[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
 
 
 ## Who to Follow
