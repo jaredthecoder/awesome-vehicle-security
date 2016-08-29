@@ -1,7 +1,6 @@
 # Awesome Vehicle Security
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/awesome-vehicle-security)
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
 
@@ -9,23 +8,21 @@
 
 ---
 
-Inspired by [awesome-security](https://github.com/sbilly/awesome-security), [awesome-appsec](https://github.com/paragonie/awesome-appsec), and [awesome-python](https://github.com/vinta/awesome-python).
-
 I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
 Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter](https://twitter.com/jaredthecoder).
 
 ---
 
-Legend:
+**Legend**:
 - 🌟: MOST AWESOME.
 - 💰: Costs money. 😞
 
 ---
 
-# Table of Contents
+# Contents
 
-- [Resources to Learn](#resources-to-learn)
+- [Learn](#learn)
     - [Articles](#articles)
     - [Presentations](#presentations)
     - [Books](#books)
@@ -48,7 +45,7 @@ Legend:
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-# Resources to Learn
+# Learn
 
 ## Articles
 
@@ -77,7 +74,7 @@ Legend:
 
 ## Blogs
 
-Welcoming contributions!
+inspiWelcoming contributions!
 
 
 ## Websites
