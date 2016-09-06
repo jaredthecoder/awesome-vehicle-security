@@ -83,6 +83,8 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - Course on Vehicle Hacking.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [Carloop Community](https://community.carloop.io/) - Community of people interested in Car Hacking and connecting vehicles to the cloud.
+
 
 
 ## Newsletters
