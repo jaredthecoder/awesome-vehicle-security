@@ -86,7 +86,6 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in Car Hacking and connecting vehicles to the cloud.
 
 
-
 ## Newsletters
 
 [Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
