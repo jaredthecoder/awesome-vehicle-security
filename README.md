@@ -170,6 +170,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### C
 
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+- [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Python
 
