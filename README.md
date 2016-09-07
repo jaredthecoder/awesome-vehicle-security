@@ -83,6 +83,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - Course on Vehicle Hacking.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [Carloop Community](https://community.carloop.io/) - Community of people interested in Car Hacking and connecting vehicles to the cloud.
 
 
 ## Newsletters
@@ -144,6 +145,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [Red Pitaya](http://redpitaya.com/) - Replaces expensive measurement tools such as oscilloscopes, signal generators, and spectrum analyzers. Red Pitaya has LabView and Matlab interfaces, and you can write your own tools and applications for it. It even supports extensions for things like Arduino shields.
 - [ChipWhisperer](http://newae.com/tools/chipwhisperer/) - A system for side-channel attacks, such as power analysis and clock glitching.
 - [HackerSDR](https://greatscottgadgets.com/hackrf/) - A Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies.
+- [Carloop](https://www.carloop.io/) - Open source, development kit that makes it easy to connect your car to the Internet. Lowest cost car hacking tool that is compatible with SocketCAN and can-utils.  No OBD-II to serial cable required.
 
 
 # Software
@@ -168,6 +170,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### C
 
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+- [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Python
 
@@ -179,6 +182,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### Go
 
 - [CANNiBUS](https://github.com/Hive13/CANiBUS/) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
+- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board](https://github.com/carloop/simulator)
 
 ### JavaScript
 
