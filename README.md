@@ -107,7 +107,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
     - [Twitter](https://twitter.com/troyhunt)
     - [Website](https://www.troyhunt.com/)
 - Ken Munro: British researcher, works at Pen Test Partners; strong interest in vehicle security
-    -[Twitter](https://twitter.com/TheKenMunroShow)
+    - [Twitter](https://twitter.com/TheKenMunroShow)
 - OpenGarages: Initiative to created Vehicle Research Labs around the world.
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
@@ -116,7 +116,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - Pen Test Partners: British penetration testing firm; blogs discuss their disclosed car security vulns
     - [Twitter](https://twitter.com/pentestpartners)
     - [Website](https://www.pentestpartners.com/blog)
-
+    
 ## Podcasts and Episodes
 
 Podcasts and podcast episodes that either directly focus on vehicle security or have some episodes on it.
@@ -211,9 +211,9 @@ Companies and jobs working in vehicle security.
 
 ## Responsible disclosure
 
-- [General Motors](https://hackerone.com/gm) on HackerOne - GM accept responsible disclosure submissions regarding their products
-- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Tesla offer a paid bug bounty for responsible disclosure submissions
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - FCA accept responsible disclosure submissions regarding their products
+- [General Motors](https://hackerone.com/gm) on HackerOne - GM accept responsible disclosure submissions
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Tesla offer a paid bounty for responsible disclosure submissions
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - FCA accept responsible disclosure submissions
 
 # Other Awesome Lists
 
