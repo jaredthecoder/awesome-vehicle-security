@@ -106,12 +106,17 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
     - [Twitter](https://twitter.com/troyhunt)
     - [Website](https://www.troyhunt.com/)
+- Ken Munro: British researcher, works at Pen Test Partners; strong interest in vehicle security
+    - [Twitter](https://twitter.com/TheKenMunroShow)
 - OpenGarages: Initiative to created Vehicle Research Labs around the world.
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
 - Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here.
     - [Twitter](https://twitter.com/hackaday)
-
+- Pen Test Partners: British penetration testing firm; blogs discuss their disclosed car security vulns
+    - [Twitter](https://twitter.com/pentestpartners)
+    - [Website](https://www.pentestpartners.com/blog)
+    
 ## Podcasts and Episodes
 
 Podcasts and podcast episodes that either directly focus on vehicle security or have some episodes on it.
@@ -203,6 +208,12 @@ Companies and jobs working in vehicle security.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
+
+## Responsible disclosure
+
+- [General Motors](https://hackerone.com/gm) on HackerOne - GM accept responsible disclosure submissions
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Tesla offer a paid bounty for responsible disclosure submissions
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - FCA accept responsible disclosure submissions
 
 # Other Awesome Lists
 
