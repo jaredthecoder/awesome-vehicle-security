@@ -41,6 +41,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
     - [Go](#go)
     - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
+    - [Responsible Disclosure](#responsible-disclosure)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -53,6 +54,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - Overview of DEFCON 23 presentation on hacking into Tesla cars.
 - [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) - Overview of the RollJam rolling code exploitation device.
 - [IOActive's Tools and Data](http://blog.ioactive.com/2013/08/car-hacking-content.html) - Chris Valasek and Charlie Miller release some of their tools and data for hacking into vehicles in an effort to get more people into vehicle security research.
+- [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) - via the SANS Reading Room, Currie's paper analyses the risks and perils of smart vehicle technology.
 
 ## Presentations
 
@@ -62,6 +64,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) - DEFCON 23 talk by Chris Valasek and Charlie Miller give their now famous talk on hacking into a Jeep remotely and stopping it dead in its tracks.
 - [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) - DEFCON 21 talk by Chris Valasek and Charlie Miller on automotive networks.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
+- [Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT](https://www.youtube.com/watch?v=YLBQdO6a5IQ) - talk from BSides Manchester 2016 by Ken and Dave of [Pen Test Partners](#who-to-follow)
 
 ## Books
 
@@ -94,26 +97,26 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 
 ## Who to Follow
 
-- 🌟 Chris Valasek: Security Lead at UberATC.
+- 🌟 Chris Valasek: Security Lead at [UberATC](#companies-and-jobs)
     - [Twitter](https://twitter.com/nudehaberdasher)
     - [Website](http://chris.illmatics.com/about.html)
 - 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security.
     - [Twitter](https://twitter.com/0xcharlie)
 - 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
-- 🌟 Justin Seitz: Author of Black Hat Python.
+- 🌟 Justin Seitz: Author of Black Hat Python (No Starch Press).
     - [Twitter](https://twitter.com/jms_dot_py)
 - 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
     - [Twitter](https://twitter.com/troyhunt)
     - [Website](https://www.troyhunt.com/)
-- Ken Munro: British researcher, works at Pen Test Partners; strong interest in vehicle security
+- Ken Munro: British researcher, works at Pen Test Partners; major interest in vehicle security
     - [Twitter](https://twitter.com/TheKenMunroShow)
 - OpenGarages: Initiative to created Vehicle Research Labs around the world.
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
 - Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here.
     - [Twitter](https://twitter.com/hackaday)
-- Pen Test Partners: British penetration testing firm; blogs discuss their disclosed car security vulns
+- Pen Test Partners: British penetration testing firm; several posts concern their disclosed car security vulns
     - [Twitter](https://twitter.com/pentestpartners)
     - [Website](https://www.pentestpartners.com/blog)
     
@@ -165,7 +168,7 @@ Overview of software, both open source and proprietary, as well as libraries fro
 
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
-- 🌟 [WireShark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
+- 🌟 [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
@@ -211,9 +214,10 @@ Companies and jobs working in vehicle security.
 
 ## Responsible disclosure
 
-- [General Motors](https://hackerone.com/gm) on HackerOne - GM accept responsible disclosure submissions
-- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Tesla offer a paid bounty for responsible disclosure submissions
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - FCA accept responsible disclosure submissions
+- [General Motors](https://hackerone.com/gm) on HackerOne - responsible disclosure submissions accepted
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - responsible disclosure submissions accepted
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - submissions accepted, paid bounties offered
+
 
 # Other Awesome Lists
 
