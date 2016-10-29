@@ -28,6 +28,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
     - [Blogs](#blogs)
     - [Websites](#websites)
     - [Newsletters](#newsletters)
+    - [Conferences](#conferences)
     - [Who to Follow](#who-to-follow)
     - [Podcasts and Episodes](#podcasts-and-episodes)
         - [Podcasts](#podcasts)
@@ -41,6 +42,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
     - [Go](#go)
     - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
+    - [Responsible Disclosure](#responsible-disclosure)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -53,6 +55,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - Overview of DEFCON 23 presentation on hacking into Tesla cars.
 - [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) - Overview of the RollJam rolling code exploitation device.
 - [IOActive's Tools and Data](http://blog.ioactive.com/2013/08/car-hacking-content.html) - Chris Valasek and Charlie Miller release some of their tools and data for hacking into vehicles in an effort to get more people into vehicle security research.
+- [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) - via the SANS Reading Room, Currie's paper analyses the risks and perils of smart vehicle technology.
 
 ## Presentations
 
@@ -62,13 +65,14 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) - DEFCON 23 talk by Chris Valasek and Charlie Miller give their now famous talk on hacking into a Jeep remotely and stopping it dead in its tracks.
 - [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) - DEFCON 21 talk by Chris Valasek and Charlie Miller on automotive networks.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
-- [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
+- [Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT](https://www.youtube.com/watch?v=YLBQdO6a5IQ) - talk from BSides Manchester 2016 by Ken and Dave of [Pen Test Partners](#who-to-follow)
+>>>>>>> master
 
 ## Books
 
 - 🌟 [2014 Car Hacker's Handbook](http://opengarages.org/handbook/) - Free guide to hacking vehicles from 2014. You can also buy the book on Amazon [here](https://www.amazon.com/Car-Hackers-Manual-Craig-Smith/dp/0990490106?ie=UTF8&keywords=2014%20car%20hacker%27s%20manual&qid=1405445024&ref_=sr_1_1&sr=8-1).
 - 🌟💰 [2016 Car Hacker's Handbook](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032) - Latest version of the Car Hacker's handbook with updated information to hack your own vehicle and learning vehicle security. For a physical copy as well unlimited PDF, MOBI, and EPUB copies of the book buy it at [No Starch Press](https://www.nostarch.com/carhacking).
-- 💰 [A Comprehensible Guide to Controller Area Network](https://www.amazon.com/Comprehensible-Guide-Controller-Area-Network/dp/0976511606/ref=pd_sim_14_1?ie=UTF8&dpID=41-D9UhlE9L&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&psc=1&refRID=3FH8N10610H0RX8SMB6K) - An older book from 2005, but still a comprehensive guide on CAN busses and networking in vehicles.
+- 💰 [A Comprehensible Guide to Controller Area Network](https://www.amazon.com/Comprehensible-Guide-Controller-Area-Network/dp/0976511606/ref=pd_sim_14_1?ie=UTF8&dpID=41-D9UhlE9L&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&psc=1&refRID=3FH8N10610H0RX8SMB6K) - An older book from 2005, but still a comprehensive guide on CAN buses and networking in vehicles.
 - 💰 [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - This book guides you through prototyping CAN applications on Arduinos, which can help when working with CAN on your own car.
 - 💰 [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - From 2003, this book fills in gaps in CAN literature and will educate you further on CAN networks and working with embedded systems.
 
@@ -82,10 +86,10 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 
 - 🌟 [OpenGarages](http://opengarages.org/index.php/Main_Page) - Provides public access, documentation and tools necessary to understand today's modern vehicle systems.
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
-- [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - Course on Vehicle Hacking.
+- [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - course on Vehicle Hacking methodology.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
-- [IAmTheCalvary](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
-- [Carloop Community](https://community.carloop.io/) - Community of people interested in Car Hacking and connecting vehicles to the cloud.
+- [IAmTheCavalry](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 
 
 ## Newsletters
@@ -93,34 +97,44 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 [Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
 
 
+## Conferences
+
+- [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
+
+
 ## Who to Follow
 
-- 🌟 Chris Valasek: Security Lead at UberATC.
+- 🌟 Chris Valasek: Security Lead at [UberATC](#companies-and-jobs)
     - [Twitter](https://twitter.com/nudehaberdasher)
     - [Website](http://chris.illmatics.com/about.html)
 - 🌟 Charlie Miller: Hacked the first Apple iPhone, now does car security.
     - [Twitter](https://twitter.com/0xcharlie)
 - 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
-- 🌟 Justin Seitz: Author of Black Hat Python.
+- 🌟 Justin Seitz: Author of Black Hat Python (No Starch Press).
     - [Twitter](https://twitter.com/jms_dot_py)
 - 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
     - [Twitter](https://twitter.com/troyhunt)
     - [Website](https://www.troyhunt.com/)
+- Ken Munro: British researcher, works at Pen Test Partners; major interest in vehicle security
+    - [Twitter](https://twitter.com/TheKenMunroShow)
 - OpenGarages: Initiative to created Vehicle Research Labs around the world.
     - [Twitter](https://twitter.com/opengarages)
     - [Website](http://opengarages.org/index.php/Main_Page)
 - Hackaday: Collaborative project hosting for hackers - there are frequently car projects on here.
     - [Twitter](https://twitter.com/hackaday)
-
+- Pen Test Partners: British penetration testing firm; several posts concern their disclosed car security vulns
+    - [Twitter](https://twitter.com/pentestpartners)
+    - [Website](https://www.pentestpartners.com/blog)
+    
 ## Podcasts and Episodes
 
-Podcasts and podcast episodes that either directly focus on vehicle security or have some episodes on it.
+Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
 
 ### Podcasts
 - 🌟 [Security Weekly](http://securityweekly.com/) - Excellent podcast covering all ranges of security, with some episodes focusing portions on vehicle security from cars to drones.
 - [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
-- [SANS Internet Storm Center](https://isc.sans.edu/) - A regular podcast going into the latest vulnerabilities and security news.
+- [SANS Internet Storm Center](https://isc.sans.edu/) - the ISC run a regular podcast going into the latest vulnerabilities and security news.
 - [Security Ledger](https://soundcloud.com/securityledger) - A podcast focusing on interviewing security experts about topics related to security.
 
 ### Episodes
@@ -133,7 +147,7 @@ Podcasts and podcast episodes that either directly focus on vehicle security or 
 
 Overview of hardware, both open source and proprietary, that you can use when conducting vehicle security research. [This article](http://makezine.com/2016/04/08/car-hacking-tools-trade/) goes through many of the options below.
 
-- 🌟 [Arduino](https://www.arduino.cc/) - Arduino's have a number of shields you can attach to connect to CAN-enabled devices.
+- 🌟 [Arduino](https://www.arduino.cc/) - Arduino boards have a number of shields you can attach to connect to CAN-enabled devices.
     - [CANdiy-Shield](https://github.com/watterott/CANdiy-Shield)
     - [ChuangZhou CAN-Bus Shield](http://www.seeedstudio.com/wiki/CAN-BUS_Shield)
     - [DFRobot CAN-BUS Shield For Arduino](http://www.dfrobot.com/index.php?route=product/product&product_id=1444)
@@ -161,7 +175,7 @@ Overview of software, both open source and proprietary, as well as libraries fro
 
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
-- 🌟 [WireShark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
+- 🌟 [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
@@ -197,13 +211,20 @@ Libraries and tools that don't fall under the larger class of applications above
 
 # Companies and Jobs
 
-Companies and jobs working in vehicle security.
+Companies and job opportunities in the vehicle security field.
 
 - [UberATC](https://www.uberatc.com/) - Uber Advanced Technologies Center - <info@uberatc.com>.
 - [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
+
+## Responsible disclosure
+
+- [General Motors](https://hackerone.com/gm) on HackerOne - responsible disclosure submissions accepted
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - responsible disclosure submissions accepted
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - submissions accepted, paid bounties offered
+
 
 # Other Awesome Lists
 
