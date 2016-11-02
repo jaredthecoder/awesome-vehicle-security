@@ -28,6 +28,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
     - [Blogs](#blogs)
     - [Websites](#websites)
     - [Newsletters](#newsletters)
+    - [Conferences](#conferences)
     - [Who to Follow](#who-to-follow)
     - [Podcasts and Episodes](#podcasts-and-episodes)
         - [Podcasts](#podcasts)
@@ -65,6 +66,7 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 - [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) - DEFCON 21 talk by Chris Valasek and Charlie Miller on automotive networks.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
 - [Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT](https://www.youtube.com/watch?v=YLBQdO6a5IQ) - talk from BSides Manchester 2016 by Ken and Dave of [Pen Test Partners](#who-to-follow)
+>>>>>>> master
 
 ## Books
 
@@ -93,6 +95,11 @@ Check out my [blog](https://jaredmichaelsmith.com/blog) or follow me on [Twitter
 ## Newsletters
 
 [Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
+
+
+## Conferences
+
+- [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
 
 
 ## Who to Follow
