@@ -33,6 +33,7 @@ Check out my [blog](https://blog.jaredmichaelsmith.com) or follow me on [Twitter
     - [Podcasts and Episodes](#podcasts-and-episodes)
         - [Podcasts](#podcasts)
         - [Episodes](#episodes)
+- [Projects](#projects)
 - [Hardware](#hardware)
 - [Software](#software)
   - [Applications](#applications)
@@ -143,6 +144,10 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 - [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1) - Jason Haddix explores major vulnerabilities found in cars.
 - [Hacking Under the Hood and Into Your Car](http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car) - Chris Valasek and Charlie Miller discuss with NPR how they were able to hack into vehicles.
 - [Hacking Connected Vehicles with Chris Valasek of IOActive](https://soundcloud.com/securityledger/chris-valasek-of-ioactive) - Chris Valasek talks about hacking into connected vehicles.
+
+# Projects
+
+- [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
 
 # Hardware 💰
 
