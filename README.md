@@ -9,7 +9,7 @@
 
 I would love as much help as I can get. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
-Check out my [blog](https://blog.jaredmichaelsmith.com) or follow me on [Twitter](https://twitter.com/jaredthecoder).
+Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security goodness.
 
 ---
 
