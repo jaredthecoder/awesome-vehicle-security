@@ -80,9 +80,9 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Research Papers
 
-[Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
-[Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
-[Miller and Valesek](http://illmatics.com/carhacking.html)
+- [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
+- [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
+- [Miller and Valesek](http://illmatics.com/carhacking.html)
 
 
 
