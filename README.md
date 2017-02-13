@@ -25,6 +25,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Articles](#articles)
     - [Presentations](#presentations)
     - [Books](#books)
+    - [Research Papers](#research-papers)
     - [Courses](#courses)
     - [Blogs](#blogs)
     - [Websites](#websites)
@@ -82,8 +83,12 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 - [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
-- [Miller and Valesek](http://illmatics.com/carhacking.html)
-
+- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitve source".
+  - [Adventures in Automotive Networks and Control Units (aka car hacking)](http://illmatics.com/car_hacking.pdf)
+  - [Car Hacking for Poories](http://illmatics.com/car_hacking_poories.pdf)
+  - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
+  - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+  - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
 
 
 ## Courses
@@ -113,6 +118,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 ## Conferences
 
 - [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
+- [escar conference](https://www.escar.info/) - Embedded security in cars.
 
 
 ## Who to Follow
