@@ -25,6 +25,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Articles](#articles)
     - [Presentations](#presentations)
     - [Books](#books)
+    - [Research Papers](#research-papers)
     - [Courses](#courses)
     - [Blogs](#blogs)
     - [Websites](#websites)
@@ -79,6 +80,18 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - 💰 [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - This book guides you through prototyping CAN applications on Arduinos, which can help when working with CAN on your own car.
 - 💰 [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - From 2003, this book fills in gaps in CAN literature and will educate you further on CAN networks and working with embedded systems.
 
+## Research Papers
+
+- [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
+- [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
+- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitve source".
+  - [Adventures in Automotive Networks and Control Units (aka car hacking)](http://illmatics.com/car_hacking.pdf)
+  - [Car Hacking for Poories](http://illmatics.com/car_hacking_poories.pdf)
+  - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
+  - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+  - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
+
+
 ## Courses
 
 - [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
@@ -106,6 +119,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 ## Conferences
 
 - [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
+- [escar conference](https://www.escar.info/) - Embedded security in cars.
 
 
 ## Who to Follow
@@ -178,6 +192,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
 - [CANBus Triple](https://canb.us/) - General purpose Controller Area Network swiss army knife and development platform.
 - [USBtin](http://www.fischl.de/usbtin/) - USBtin is a simple USB to CAN interface. It can monitor CAN busses and transmit CAN messages. USBtin implements the USB CDC class and creates a virtual comport on the host computer.
 - 🌟 [OpenXC](http://openxcplatform.com/hardware.html) - OpenXC is a combination of open source hardware and software that lets you extend your vehicle with custom applications and pluggable modules. It uses standard, well-known tools to open up a wealth of data from the vehicle to developers. Started by researchers at Ford, it works for all 2002 and newer MY vehicles (standard OBD-II interface). Researchers at Ford Motor Company joined up to create a standard way of creating aftermarket software and hardware for vehicles. 
+- [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
 
 # Software
 
