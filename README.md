@@ -61,6 +61,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) - via the SANS Reading Room, Currie's paper analyses the risks and perils of smart vehicle technology.
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) -  A whitepaper from Chris Valesek and IOActive on hacking your car when you don't have a lot of resources at your disposal.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek publish all tools, data, research notes, and papers to everyone for free
+- [Car Hacking on the cheap] (https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article in working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
 
 ## Presentations
 
@@ -73,6 +74,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT](https://www.youtube.com/watch?v=YLBQdO6a5IQ) - talk from BSides Manchester 2016 by Ken and Dave of [Pen Test Partners](#who-to-follow)
 - [A Platform base on Visualization for Protecting CAN Bus Security](https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf) - Syscan360 2016 SH talk by Jianhao Liu
 - [Gateway Internals of Tesla Motors](https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf) - Zeronights 2016 talk by Nie Seng and Liu Ling
+- [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) - Bugcrowd LevelUp 2017 by Alan Mond
 
 ## Books
 
@@ -216,10 +218,14 @@ Software applications that will help you hack your car, investigate it's signals
 - 🌟 [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
 - [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
+- [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
+- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## Libraries and Tools
 
 Libraries and tools that don't fall under the larger class of applications above.
+
+[Custom Applications SDK for Mazda Connect Infotainment System](https://github.com/flyandi/mazda-custom-application-sdk) - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.
 
 ### C
 
