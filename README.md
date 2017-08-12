@@ -45,7 +45,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Go](#go)
     - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
-    - [Responsible Disclosure](#responsible-disclosure)
+    - [Coordinated Disclosure](#coordinated-disclosure)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -75,6 +75,11 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [A Platform base on Visualization for Protecting CAN Bus Security](https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf) - Syscan360 2016 SH talk by Jianhao Liu
 - [Gateway Internals of Tesla Motors](https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf) - Zeronights 2016 talk by Nie Seng and Liu Ling
 - [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) - Bugcrowd LevelUp 2017 by Alan Mond
+- [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2015.
+- [State of Automotive Cyber Safety, 2016](https://www.youtube.com/watch?v=WcObDVy2-1I) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2016.
+- [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng) - DEF CON 23 talk by Marc Rogers and Kevin Mahaffey on hacking a Tesla. Tesla Co-Founder and CTO, JB Straubel, joins them to thank them and present a challenge coin.
+
+
 
 ## Books
 
@@ -94,6 +99,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
   - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
+- [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
 
 
 ## Courses
@@ -111,7 +117,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - course on Vehicle Hacking methodology.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
-- [IAmTheCavalry](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 
 
@@ -122,8 +128,9 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Conferences
 
-- [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
-- [escar conference](https://www.escar.info/) - Embedded security in cars.
+- [U.S. Automotve Cyber Security Summit](http://www.automotivecybersecurity.com/) [European Automotive Cyber Security Summit](https://automotive-cyber-security.iqpc.de/) - Conference series dedicated to automotive cyber security involving many OEMs, Tier 1s, academics, consultants, etc.
+- [escar conference](https://www.escar.info/) - Embedded security in cars. European event has run for over 10 years, and they now have US and Asia events.
+- [IT Security for Vehicles](https://www.vdi-wissensforum.de/en/event/it-security-for-vehicles/) - Conference run by the Association of German Engineers (VDI), with participation from US and European OEMs, Tier 1s, and others.
 
 
 ## Who to Follow
@@ -135,6 +142,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Twitter](https://twitter.com/0xcharlie)
 - 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
+    - [Website](https://samy.pl)
 - 🌟 Justin Seitz: Author of Black Hat Python (No Starch Press).
     - [Twitter](https://twitter.com/jms_dot_py)
 - 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
@@ -150,6 +158,10 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - Pen Test Partners: British penetration testing firm; several posts concern their disclosed car security vulns
     - [Twitter](https://twitter.com/pentestpartners)
     - [Website](https://www.pentestpartners.com/blog)
+- I Am The Cavalry: Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars.
+    - [Twitter](https://twitter.com/iamthecavalry)
+    - [Website](https://iamthecavalry.org)
+    - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
     
 ## Podcasts and Episodes
 
@@ -258,11 +270,11 @@ Companies and job opportunities in the vehicle security field.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
 
-## Responsible disclosure
+## Coordinated disclosure
 
-- [General Motors](https://hackerone.com/gm) on HackerOne - responsible disclosure submissions accepted
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - responsible disclosure submissions accepted
-- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - submissions accepted, paid bounties offered
+- [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
 
 # Other Awesome Lists
