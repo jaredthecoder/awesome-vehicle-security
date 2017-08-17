@@ -100,6 +100,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
 - [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
+- [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
 
 
 ## Courses
