@@ -100,6 +100,8 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
 - [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
 - [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
+- [A Car Hacking Experiment: When Connectivity Meets Vulnerability](http://ieeexplore.ieee.org/abstract/document/7413993/)
+- [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 
 
 ## Courses
