@@ -1,4 +1,4 @@
-# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
@@ -56,6 +56,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) -  A whitepaper from Chris Valesek and IOActive on hacking your car when you don't have a lot of resources at your disposal.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek publish all tools, data, research notes, and papers for everyone for free
 - [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article on working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
+- [How to Build a Portable Hacking Station with a Raspberry Pi and Kali Linux](https://lifehacker.com/how-to-build-a-portable-hacking-station-with-a-raspberr-1739297918) - Thorin Klosowski writes about using a Raspberry Pi as an on-the-move car hacking device.
 
 ## Presentations
 
