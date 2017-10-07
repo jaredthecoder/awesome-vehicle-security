@@ -56,6 +56,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) -  A whitepaper from Chris Valesek and IOActive on hacking your car when you don't have a lot of resources at your disposal.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek publish all tools, data, research notes, and papers for everyone for free
 - [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article on working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
+- [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) - Texas A&M researchers develop intelligence system prototype. 
 
 ## Presentations
 
