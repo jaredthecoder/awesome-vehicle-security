@@ -246,6 +246,10 @@ Libraries and tools that don't fall under the larger class of applications above
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
+### C++
+
+- [High Level ViWi Service](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
+
 ### Python
 
 - [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
