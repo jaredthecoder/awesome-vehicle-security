@@ -91,7 +91,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 - [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
-- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitve source".
+- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitive source".
   - [Adventures in Automotive Networks and Control Units (aka car hacking)](http://illmatics.com/car_hacking.pdf)
   - [Car Hacking for Poories](http://illmatics.com/car_hacking_poories.pdf)
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
