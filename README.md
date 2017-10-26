@@ -120,6 +120,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
+- [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
 
 
 ## Newsletters
@@ -163,7 +164,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
     - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
-    
+
 ## Podcasts and Episodes
 
 Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
