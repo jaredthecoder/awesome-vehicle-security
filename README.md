@@ -110,8 +110,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Blogs
 
-[Welcoming contributions](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)!
-
+- [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
 ## Websites
 
