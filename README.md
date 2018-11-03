@@ -29,6 +29,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Podcasts and Episodes](#podcasts-and-episodes)
         - [Podcasts](#podcasts)
         - [Episodes](#episodes)
+    - [Miscellaneous](#miscellaneous)
 - [Projects](#projects)
 - [Hardware](#hardware)
 - [Software](#software)
