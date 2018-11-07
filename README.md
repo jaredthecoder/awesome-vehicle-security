@@ -29,6 +29,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Podcasts and Episodes](#podcasts-and-episodes)
         - [Podcasts](#podcasts)
         - [Episodes](#episodes)
+    - [Miscellaneous](#miscellaneous)
 - [Projects](#projects)
 - [Hardware](#hardware)
 - [Software](#software)
@@ -187,6 +188,9 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 - [Hacking Under the Hood and Into Your Car](http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car) - Chris Valasek and Charlie Miller discuss with NPR how they were able to hack into vehicles.
 - [Hacking Connected Vehicles with Chris Valasek of IOActive](https://soundcloud.com/securityledger/chris-valasek-of-ioactive) - Chris Valasek talks about hacking into connected vehicles.
 - [Hackable? - Cars are Computers](https://hackablepodcast.com/#/episodes/cars-are-computers) - Geoff Siskind paired up with Craig Smith, author of The Car Hacker’s Handbook, to show us just how easy – or not – it is to hack a car.
+
+## Miscellaneous
+- [Reverse Engineering Resources](https://github.com/ps1337/automotive-security-research)
 
 # Projects
 
