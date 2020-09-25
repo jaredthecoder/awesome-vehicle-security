@@ -36,6 +36,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [Applications](#applications)
   - [Libraries and Tools](#libraries-and-tools)
     - [C](#c)
+    - [Java](#java)
     - [Python](#python)
     - [Go](#go)
     - [JavaScript](#javascript)
