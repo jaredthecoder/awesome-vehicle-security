@@ -310,6 +310,7 @@ Companies and job opportunities in the vehicle security field.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
+- [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 
 ## Coordinated disclosure
 
