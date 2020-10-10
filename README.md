@@ -117,7 +117,9 @@ CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
 
 ## Courses
 
+- [Future Learn - Automative Cyber Security Course](https://www.futurelearn.com/programs/automotive-cyber-security) - Course from Coventry University exploring the challenges surrounding automotive cyber security, risks and safety impacts.
 - [Udacity's Self Driving Car Engineer Course](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
 
 ## Blogs
 
