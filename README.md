@@ -37,6 +37,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [Libraries and Tools](#libraries-and-tools)
     - [C](#c)
     - [Java](#java)
+    - [C++](#c++)
     - [Python](#python)
     - [Go](#go)
     - [JavaScript](#javascript)
@@ -184,6 +185,9 @@ CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
 - Ian Tabor / mintynet: Car Hacker, Car Hacking Village staff
     - [Twitter](https://twitter.com/mintynet)
     - [Website](https://www.mintynet.com/)    
+- Daniel Öster: Dala's EV Repair, electric vehicle CAN hacking/upgrading
+    - [Youtube](https://www.youtube.com/channel/UCc3g-KhOBoicgOrB4KkMeew)
+    - [Website](https://dalasevrepair.fi/)
 
 ## Podcasts and Episodes
 
