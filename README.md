@@ -117,6 +117,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
 - [Modeling Inter-Signal Arrival Times for Accurate Detection of
 CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
+- [The Connected Car - Ways to get unauthorized access and potential implications, 2018](https://www.computest.nl/documents/9/The_Connected_Car._Research_Rapport_Computest_april_2018.pdf)
 
 ## Courses
 
