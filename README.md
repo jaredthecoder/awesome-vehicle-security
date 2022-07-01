@@ -261,7 +261,7 @@ Overview of software, both open source and proprietary, as well as libraries fro
 Software applications that will help you hack your car, investigate it's signals, and general tinkering with it.
 
 - [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
-- [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
+- [Kayak](https://github.com/dschanoeh/Kayak) - Java application for CAN bus diagnosis and monitoring.
 - [UDSim](https://github.com/zombieCraig/UDSim/) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 - [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
