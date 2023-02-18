@@ -15,6 +15,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 # Contents
 
+- [Related Lists](#related-lists)
 - [Learn](#learn)
     - [Articles](#articles)
     - [Presentations](#presentations)
@@ -43,8 +44,13 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
     - [Coordinated Disclosure](#coordinated-disclosure)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Awesome (non-vehicle related) Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+# Related Lists
+
+- [Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-canbus)
+- [Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-linbus)
 
 # Learn
 
@@ -219,6 +225,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 - [Real ORNL Automotive Dynamometer (ROAD) CAN Intrusion Dataset](https://0xsam.com/road/)
 - [CAN DoS Fuzzing Attack Video](https://www.youtube.com/shorts/80A5IhvwsJU)
 - [ECU Reflashing Detector Demo](https://www.youtube.com/watch?v=HPpGzwWQY5Y)
+
 # Projects
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
