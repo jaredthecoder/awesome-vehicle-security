@@ -49,6 +49,8 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 # Related Lists
 
+These lists are related to a specific protocol that you will find in the world of car hacking.
+
 - [Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-canbus)
 - [Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-linbus)
 
