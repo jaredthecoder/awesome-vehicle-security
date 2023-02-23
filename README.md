@@ -320,6 +320,19 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Scapy](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 - [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 - [canTot](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
+- [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
+- [PyCANalyzer](https://github.com/Linklayer/pycanalyzer) Python interface to Vector CANalyzer
+- [CanKingdom](https://github.com/gavincabbage/python-cankingdom) Python interface to Kvaser CAN interfaces
+- [canmatrix](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
+- [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
+- [cantools](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
+- [canard](https://github.com/Polyconseil/canard) Python library for implementing CAN protocols
+- [python-can-isotp](https://github.com/hackerspace-bamberg/python-can-isotp) Python module to handle ISO-TP messages over CAN bus
+- [canio](https://github.com/DarkSector/canio) Python module for CAN bus I/O operations
+- [canlib](https://www.kvaser.com/developer/python/) Python interface to Kvaser CAN interfaces
+- [python-canopen](https://github.com/christiansandberg/python-canopen) Python module for communicating with CANopen devices
+- [python-socketcan-extended](https://github.com/mguentner/python-socketcan-extended) Python module to extend SocketCAN with new features
+- [python-canremote](https://github.com/ascillato/python-canremote) Python module to remotely access CAN devices over the network
 
 ### Go
 
