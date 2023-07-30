@@ -320,6 +320,11 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Scapy](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 - [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 - [canTot](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
+- [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
+- [canmatrix](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
+- [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
+- [cantools](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
+
 
 ### Go
 
