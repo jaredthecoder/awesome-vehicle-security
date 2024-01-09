@@ -345,12 +345,15 @@ Companies and job opportunities in the vehicle security field.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
 - [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
+- [VicOne](https://www.vicone.com/) - A subsidiary of Trend Micro which focuses on automotive security
 
 ## Coordinated disclosure
 
 - [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
 - [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 - [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [ASRG](https://asrg.io/disclosure/) - The ASRG Disclosure Process is to support responsible disclosure when direct communication with the responsible company is unavailable or not responsive.
+- [Zeekr](https://security.zeekrlife.com/vulnerability) - Zeekr and Geely Responsible disclosure program
 
 
 # Other Awesome Lists
