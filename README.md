@@ -357,7 +357,7 @@ Companies and job opportunities in the vehicle security field.
 ## Coordinated disclosure
 
 - [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
-- [Stellantis]([https://bugcrowd.com/fca](https://bugcrowd.com/stellantis) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [Stellantis](https://bugcrowd.com/stellantis) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 - [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 - [ASRG](https://asrg.io/disclosure/) - The ASRG Disclosure Process is to support responsible disclosure when direct communication with the responsible company is unavailable or not responsive.
 - [Zeekr](https://security.zeekrlife.com/vulnerability) - Zeekr and Geely Responsible disclosure program
