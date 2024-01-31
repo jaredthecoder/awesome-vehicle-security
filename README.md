@@ -100,6 +100,10 @@ These lists are related to a specific protocol that you will find in the world o
 - [Remote Exploitation of Honda Cars](https://www.youtube.com/watch?v=y4Uzm-CTa0I&ab_channel=CarHackingVillage) - The Honda Connect app used by Honda City 5th generation used weak security mechanisms in its APIs for access control which would allow a malicious user to perform actions like starting the car, locking/unlocking car etc. remotely by interacting with it's Telematics Control Unit (TCU)
 - [TR22: UDS Fuzzing and the Path to Game Over](https://www.youtube.com/watch?v=c_DqxHmH7kc) - UDS diagnostics protocol fuzzing methodology, presented as a result of numerous penetration testing projects in the automotive industry, with real world exploitation PoCs, presented during Troopers Conference 2022.
 - [CCC - Horror Stories From the Automotive Industry](https://www.youtube.com/watch?v=rAA-agcNeeg) - Horrifying examples of common vulnerabilities in the automotive industry, result of more than 100 penetration tests targeting Tier 1 suppliers and OEMs, with ultimate goal to raise awareness on the current state of automotive security. Additionally, PoC of automated week seed randomness exploitation in automotive components, by using a battery isolator in heavy-duty vehicles and the UDS protocol, for complete compromise of a target. Presented in Chaos Communication Camp, DeepSec 2023 and Troopers Conference 23.
+- [Car Hacking Scene in the PH: How Far We've Come](https://www.youtube.com/watch?v=JaF-_KYQ46A) - Car Hacking Village PH presents their first attempt on the main tracks for ROOTCON. This is a rundown of CHVPH's past security research to current research - from hacking infotainment systems to CAN Bus protocols and a summary of cars available in the Philippines which are susceptible to car thefts.
+- [Analysis of an In-vehicular network: From CAN bus to infotainment](https://www.youtube.com/watch?v=4d-uhs2VLCQ) - This talk will feature Div0 CSQ’s 3 test benches as they explore more features on Connected vehicles. This was presented in ROOTCON 17 Car Hacking Village.
+- [An overview of Automotive Defensive Engineering](https://www.youtube.com/watch?v=MfTNv9SXd-o) - This talk is for car hackers to learn about modern defense measures being added to ECUs and Vehicle Architectures. This was presented in ROOTCON 17 Car Hacking Village.
+- [Hacking Back Your Car](https://www.youtube.com/watch?v=akMok3Hb-pE) - Kamel Ghali's talk on ROOTCON 17 about how an attacker's perspective on hacking a car and origins of such attacks, how they've been used in different countries over the years, and explore the technical details of what makes such an attack possible. 
 
 ## Books
 
@@ -348,12 +352,15 @@ Companies and job opportunities in the vehicle security field.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
 - [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
+- [VicOne](https://www.vicone.com/) - A subsidiary of Trend Micro which focuses on automotive security
 
 ## Coordinated disclosure
 
 - [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [Stellantis]([https://bugcrowd.com/fca](https://bugcrowd.com/stellantis) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 - [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [ASRG](https://asrg.io/disclosure/) - The ASRG Disclosure Process is to support responsible disclosure when direct communication with the responsible company is unavailable or not responsive.
+- [Zeekr](https://security.zeekrlife.com/vulnerability) - Zeekr and Geely Responsible disclosure program
 
 
 # Other Awesome Lists
