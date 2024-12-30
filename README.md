@@ -102,6 +102,9 @@ These lists are related to a specific protocol that you will find in the world o
 - [Analysis of an In-vehicular network: From CAN bus to infotainment](https://www.youtube.com/watch?v=4d-uhs2VLCQ) - This talk will feature Div0 CSQ’s 3 test benches as they explore more features on Connected vehicles. This was presented in ROOTCON 17 Car Hacking Village.
 - [An overview of Automotive Defensive Engineering](https://www.youtube.com/watch?v=MfTNv9SXd-o) - This talk is for car hackers to learn about modern defense measures being added to ECUs and Vehicle Architectures. This was presented in ROOTCON 17 Car Hacking Village.
 - [Hacking Back Your Car](https://www.youtube.com/watch?v=akMok3Hb-pE) - Kamel Ghali's talk on ROOTCON 17 about how an attacker's perspective on hacking a car and origins of such attacks, how they've been used in different countries over the years, and explore the technical details of what makes such an attack possible. 
+- [TR23: V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=JVWFfSmIlRY) - This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC), and an introduction to the tool V2GEvil. Accessible through the On-Board Charging (OBC) port, makes this attack vector really important for the security of future vehicles.
+- [DEF CON CHV - V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=Ui2etjRyrUE) - Shortened and summarized version of the talk V2GEvil: Ghost in the wires, from the DEF CON 32 Car Hacking Village, by Pavel Khunt and Thomas Sermpinis.
+- [The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)](https://www.youtube.com/watch?v=MDndWJxfP-U) - Thomas Sermpinis goes through the process of responsibly disclosing findings affecting the Blind Spot Detection Sensor of a current MY vehicle from one of the biggest OEMs in the world, leading to accusations that he was collaborating with hostile nations by the OEM. A story about how automotive manufacturers are treating the security industry, where are we heading, and how to be better, on the stage of DEF CON 32.
 
 ## Books
 
@@ -135,7 +138,7 @@ These lists are related to a specific protocol that you will find in the world o
 - [Time-Based CAN Intrusion Detection Benchmark](https://arxiv.org/pdf/2101.05781.pdf)
 - [Addressing the Lack of Comparability & Testing in CAN Intrusion Detection Research: A Comprehensive Guide to CAN IDS Data & Introduction of the ROAD Dataset](https://arxiv.org/pdf/2012.14600.pdf)
 - [On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats](https://hexhive.epfl.ch/publications/files/22WOOT.pdf)
-
+- [Pavel, K. Vehicle On-Board Charging Security Scanner, 2024](https://dspace.cvut.cz/bitstream/handle/10467/113764/F8-DP-2024-Khunt-Pavel-thesis.pdf)
 
 ## Courses
 
@@ -309,6 +312,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [High Level ViWi Service](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
 - [CanCat](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 - [CANdevStudio](https://github.com/GENIVI/CANdevStudio) - Development tool for CAN bus simulation. CANdevStudio enables to simulate CAN signals such as ignition status, doors status or reverse gear by every automotive developer.
+- [UnlockECU](https://github.com/jglim/UnlockECU) - Free, open-source ECU seed-key unlocking tool.
 
 ### Java
 - [ITS Geonetworking](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
