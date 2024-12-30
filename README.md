@@ -137,6 +137,7 @@ These lists are related to a specific protocol that you will find in the world o
 - [CAN-D: A Modular Four-Step Pipeline for Comprehensively Decoding Controller Area Network Data](https://arxiv.org/pdf/2006.05993.pdf)
 - [Time-Based CAN Intrusion Detection Benchmark](https://arxiv.org/pdf/2101.05781.pdf)
 - [Addressing the Lack of Comparability & Testing in CAN Intrusion Detection Research: A Comprehensive Guide to CAN IDS Data & Introduction of the ROAD Dataset](https://arxiv.org/pdf/2012.14600.pdf)
+- [On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats](https://hexhive.epfl.ch/publications/files/22WOOT.pdf)
 - [Pavel, K. Vehicle On-Board Charging Security Scanner, 2024](https://dspace.cvut.cz/bitstream/handle/10467/113764/F8-DP-2024-Khunt-Pavel-thesis.pdf)
 
 ## Courses
