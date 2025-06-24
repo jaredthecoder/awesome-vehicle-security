@@ -306,6 +306,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [SocketCAN Utils](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 - [dbcc](https://github.com/howerj/dbcc) - "dbcc is a program for converting a DBC file primarily into into C code that can serialize and deserialize CAN messages." With existing DBC files from a vehicle, this file allows you to convert them to C code that extracts the CAN messages and properties of the CAN environment.
+- [OpenSSL](https://github.com/openssl/openssl) - open-source toolkit that implements the TLS and DTLS protocols, along with a cryptographic library primarily for securing communication and data within vehicles and between vehicles and external networks.
 
 ### C++
 
