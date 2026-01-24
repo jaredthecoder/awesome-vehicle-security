@@ -334,6 +334,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [cantools](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
 - [Caring Caribou Next](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
 
+- [NullSec CANBus](https://github.com/bad-antics/nullsec-canbus) - CAN bus security toolkit for fuzzing, sniffing, and replay attacks on automotive networks.
 
 ### Go
 
