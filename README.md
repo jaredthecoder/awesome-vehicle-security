@@ -299,6 +299,7 @@ Software applications that will help you hack your car, investigate it's signals
 - [talking-with-cars](https://github.com/P1kachu/talking-with-cars) - CAN related scripts, and scripts to use a car as a gamepad
 - [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 - [Tesla Mod](https://github.com/hypery11/flipper-tesla-fsd) - Tesla CAN bus toolkit for Flipper Zero and ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, and 30+ more CAN handlers. Open source (GPL-3.0).
+- [BetterCAP](https://www.bettercap.org/modules/canbus/) - Tthe Swiss Army knife for 802.11, BLE, HID, CAN-bus (scanning, injecting and fuzzing CAN frames via socketcan compatible adapters), IPv4 and IPv6 networks reconnaissance and MITM attacks. Open source (GPL-3.0).
 
 ## Libraries and Tools
 
