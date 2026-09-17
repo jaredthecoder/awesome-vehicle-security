@@ -150,11 +150,11 @@ These lists are related to a specific protocol that you will find in the world o
 
 ## Websites
 
-- [Automotive Security Research Group](https://asrg.io/knowledge/) - The Automotive Security Research Group (ASRG) is a non-profit initiative to promote the development of security solutions for automotive products.
+- [Automotive Security Research Group](https://asrg.io/) - The Automotive Security Research Group (ASRG) is a non-profit initiative to promote the development of security solutions for automotive products.
 - [OpenGarages](https://github.com/opengarages) - Provides public access, documentation and tools necessary to understand today's modern vehicle systems.
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - course on Vehicle Hacking methodology.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 - [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
@@ -197,7 +197,7 @@ These lists are related to a specific protocol that you will find in the world o
     - [Twitter](https://twitter.com/hackaday)
 - Pen Test Partners: British penetration testing firm; several posts concern their disclosed car security vulns
     - [Twitter](https://twitter.com/pentestpartners)
-    - [Website](https://www.pentestpartners.com/blog)
+    - [Website](https://www.pentestpartners.com/security-blog/)
 - I Am The Cavalry: Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars.
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
@@ -240,7 +240,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
 - [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
-- [Uptane](https://uptane.github.io/overview.html) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
+- [Uptane](https://uptane.org/) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
 
 # Hardware
 
@@ -253,7 +253,7 @@ Overview of hardware, both open source and proprietary, that you can use when co
     - [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 - [CANtact](https://cantact.io/cantact/users-guide.html) - "The Open Source Car Tool" designed to help you hack your car. You can buy one or make your own following the guide here.
 - [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - Arduino-based OBD-II Bluetooth adapter kit has both an OBD-II device and a data logger, and it comes with GPS, an accelerometer and gyro, and temperature sensors.
-- [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
+- [ELM327](https://www.elmelectronics.com/) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
 - [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) - Crafted by a well-known hardware hacker, this board is a general board that can be used for exploration of automotive networks.
 - [USB2CAN](http://www.8devices.com/products/usb2can/) - Cheap USB to CAN connector that will register a device on linux that you can use to get data from a CAN network.
 - [Rinho Telematics](https://rinho.com.ar/en) - GPS trackers with native CAN Bus (J1939/FMS), WiFi fallback for offline data download, and BLE 5.0 sensors. Compatible with Traccar and Wialon.
@@ -333,7 +333,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [Scapy](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 - [CanoPy](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 - [canTot](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
-- [SocketCAN](https://python-can.readthedocs.io/en/master/interfaces/socketcan.html) Python interface to SocketCAN
+- [SocketCAN](https://python-can.readthedocs.io/en/stable/interfaces/socketcan.html) Python interface to SocketCAN
 - [canmatrix](https://github.com/ebroecker/canmatrix) Python module to work with CAN matrix files
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework with automotive diagnostic drivers for UDS, DoIP, and CAN bus protocols.
 - [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
@@ -358,7 +358,7 @@ Companies and job opportunities in the vehicle security field.
 - [UberATC](https://www.uber.com/us/en/autonomous/) - Uber Advanced Technologies Center, now Uber AV - <info@uberatc.com>.
 - [Tesla](https://www.tesla.com/careers/search#/filter/?keyword=security&department=1) - Tesla hires security professionals for a variety of roles, particularly securing their vehicles.
 - [Intrepid Control Systems](https://www.intrepidcs.com/jobs/) - Embedded security company building tools for reversing vehicles.
-- [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
+- [Rapid7](https://www.rapid7.com/careers/) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
 - [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 - [VicOne](https://www.vicone.com/) - A subsidiary of Trend Micro which focuses on automotive security
