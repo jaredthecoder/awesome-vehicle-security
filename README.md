@@ -159,6 +159,7 @@ These lists are related to a specific protocol that you will find in the world o
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 - [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
 - [NIST Automotive Cybersecurity Community of Interest](https://csrc.nist.gov/Projects/auto-cybersecurity-coi) - NIST, the organization behind the NVD CVE database and modern cryptographic standards, runs a Community of Interest group for Automotive Cybersecurity that seeks to "provide a way for NIST to facilitate the discussions and receive comments and feedback from the automotive industry, academia, and government.".
+- [Cyber Talks: Automotive Security Talks](https://cybertalks.org/topics/automotive) - Unofficial index of about 209 recorded conference talks on vehicle and automotive security, filterable by event and speaker.
 
 ## Newsletters
 
